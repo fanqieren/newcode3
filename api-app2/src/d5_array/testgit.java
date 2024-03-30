@@ -11,6 +11,7 @@ public class testgit {
         System.out.println("git5");
         System.out.println("fuck fox");
         System.out.println("fuck xingye");
+        System.out.println("i love cs");
         
     }
 }
