@@ -10,5 +10,7 @@ public class testgit {
         System.out.println("master test");
         System.out.println("git5");
         System.out.println("fuck fox");
+        System.out.println("fuck xingye");
+        
     }
 }
